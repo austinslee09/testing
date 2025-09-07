@@ -1,6 +1,6 @@
 const body=document.getElementsByTagName("body") [0];
 
-function random
+function flip(coin)
 const true=Math.round (math.random()*255);
 
 
