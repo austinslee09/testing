@@ -1,8 +1,8 @@
 const body=document.getElementsByTagName("body") [0];
 
 function flip(coin){
-const true=Math.round (math.random()*255);
+const hit=Math.round (math.random()*255);
 
-let heads= true<127
-let tails= true>127
+let heads= hit<127
+let tails= hit>127
 }
